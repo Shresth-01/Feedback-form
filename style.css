@@ -9,17 +9,22 @@ body{
 h3{
     position: relative;
     left: 290px;
-    font-size:large;
+    font-weight: bolder;
+    font-family:cursive;
     color: crimson;
-    font-size: 35px;
+    font-size: 40px;
 }
 form{
     background-color: rgb(255, 255, 255);
     position: relative;
     left: 450px;
     width: 400px;
-    height: 450px;
+    height: 460px;
     border-radius: 30px;
+}
+label{
+    font-weight: bolder;
+    font-family:cursive ;
 }
 label,input,textarea{
     position: relative;
@@ -36,3 +41,4 @@ label,input,textarea{
     color: rgb(255, 255, 255);
     border-radius: 10px;
 }
+
